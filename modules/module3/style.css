@@ -1,0 +1,195 @@
+	#pump_1,
+	#pump_2,
+	#arrow_3,
+	#arrow_4,
+	#arrow_5,
+	#arrow_6{
+animation: rotation 2000ms infinite linear;
+animation: rotation 2000ms infinite linear;
+animation: rotation 2000ms infinite linear;
+animation: rotation 2000ms infinite linear;
+transform-origin: 50% 50%;
+transform-origin: 50% 50%;
+transform-origin: 50% 50%;
+transform-box : fill-box;
+}
+
+// @-webkit-keyframes rotation {
+// from {-webkit-transform: rotate(0deg);}
+// to   {-webkit-transform: rotate(359deg);}
+// }
+// @-moz-keyframes rotation {
+// from {-moz-transform: rotate(0deg);}
+// to   {-moz-transform: rotate(360deg);}
+// }
+// @-o-keyframes rotation {
+// from {-o-transform: rotate(0deg);}
+// to   {-o-transform: rotate(360deg);}
+// }
+@keyframes rotation {
+from {transform: rotate(0deg);}
+to   {transform: rotate(360deg);}
+}
+
+
+#flow_1 {
+  animation: change 1s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_2 {
+  animation: change 1.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_3 {
+  animation: change 2s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_4{
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+#flow_5 {
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_6 {
+  animation: change 1s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_7 {
+  animation: change 1.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_8{
+  animation: change 2s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+
+#flow_9 {
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_10 {
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_11 {
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_12 {
+  animation: change 1s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_13 {
+  animation: change 1.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_14 {
+  animation: change 2s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+#flow_15 {
+  animation: change 2.5s infinite alternate;
+}
+
+@keyframes change {
+  to {
+    opacity: 0;
+  }
+}
+
+
+..scheme .line {
+	fill: #00008B;
+}
+
+		
+
+		
+
+
+		

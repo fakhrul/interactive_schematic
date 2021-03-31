@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_8"/>
+  <line fill="none" id="svg_12" stroke="#000000" stroke-width="2" x1="49.55113" x2="49.55113" y1="211.09658" y2="212.09658"/>
+  <path d="m77.64487,175.03922l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_4" stroke="#00007f" stroke-width="6" transform="rotate(89.4032 89.3693 168.778)"/>
+  <path d="m43.64487,220.03922l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_3" stroke="#00007f" stroke-width="6"/>
+  <path d="m45.64487,350.03922l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_2" stroke="#00007f" stroke-width="6"/>
+  <path d="m76.64487,431.03921l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_1" stroke="#00007f" stroke-width="6"/>
+  <line fill="none" id="svg_69" stroke="#ff0000" stroke-width="2" transform="matrix(1 0 0 1 0 0)" x1="302.61931" x2="301.61931" y1="124.47284" y2="251.47285"/>
+  <line fill="none" id="svg_61" stroke="#000000" stroke-width="2" x1="231.61931" x2="231.61931" y1="209.47285" y2="210.47285"/>
+  <path d="m259.71305,173.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_9" stroke="#00007f" stroke-width="6" transform="rotate(89.4032 271.438 167.155)"/>
+  <path d="m227.71305,218.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_8" stroke="#00007f" stroke-width="6"/>
+  <path d="m227.71305,348.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_7" stroke="#00007f" stroke-width="6"/>
+  <path d="m258.71305,429.41548l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_6" stroke="#00007f" stroke-width="6"/>
+  <line fill="none" id="svg_87" stroke="#ff0000" stroke-width="2" x1="488.61931" x2="487.61931" y1="122.47284" y2="249.47285"/>
+  <line fill="none" id="svg_79" stroke="#000000" stroke-width="2" x1="417.61931" x2="417.61931" y1="207.47285" y2="208.47285"/>
+  <path d="m445.71305,171.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_11" stroke="#00007f" stroke-width="6" transform="rotate(89.4032 457.438 165.155)"/>
+  <path d="m414.71305,216.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_14" stroke="#00007f" stroke-width="6"/>
+  <path d="m413.71305,346.41549l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_13" stroke="#00007f" stroke-width="6"/>
+  <path d="m446.71305,427.41548l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_12" stroke="#00007f" stroke-width="6"/>
+  <path d="m162.69616,173.88585l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_5" stroke="#00007f" stroke-width="6" transform="rotate(89.4032 174.421 167.625)"/>
+  <path d="m352.69616,170.88585l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_10" stroke="#00007f" stroke-width="6" transform="rotate(90.7869 364.421 164.625)"/>
+  <path d="m529.69616,168.88585l13.43749,-12.52165l10.01138,12.02909" fill="none" id="flow_15" stroke="#00007f" stroke-width="6" transform="rotate(89.4032 541.421 162.625)"/>
+  <g id="arrow_3" transform="matrix(1 0 0 1 0 0)">
+   <ellipse cx="239.31772" cy="274.63543" fill="none" id="svg_71" rx="21.69841" ry="22.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m227.62839,273.79522l5.85021,-19.02569l14.20451,12.03022" fill="none" id="svg_64" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_63" stroke="#000000" stroke-width="3" x1="234.20696" x2="242.18848" y1="257.35371" y2="295.54582"/>
+  </g>
+  <g id="arrow_4">
+   <ellipse cx="302.674631" cy="274.20429" fill="none" id="svg_70" rx="21.19841" ry="21.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m290.873041,270.10989l12.29138,-15.73362l9.15749,15.11471" fill="none" id="svg_66" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_65" stroke="#000000" stroke-width="3" x1="302.848221" x2="299.326111" y1="256.03758" y2="293.56375"/>
+  </g>
+  <g id="arrow_5" transform="matrix(1 0 0 1 0 0)">
+   <ellipse cx="425.31772" cy="272.63543" fill="none" id="svg_89" rx="21.69841" ry="22.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m413.62839,271.79522l5.85021,-19.02569l14.20451,12.03022" fill="none" id="svg_82" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_81" stroke="#000000" stroke-width="3" x1="420.20696" x2="428.18848" y1="255.35371" y2="293.54582"/>
+  </g>
+  <g id="arrow_6">
+   <ellipse cx="489.4209" cy="272.20429" fill="none" id="svg_88" rx="21.19841" ry="21.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m477.61931,268.10989l12.29138,-15.73362l9.15749,15.11471" fill="none" id="svg_84" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_83" stroke="#000000" stroke-width="3" x1="489.59449" x2="486.07238" y1="254.03758" y2="291.56375"/>
+  </g>
+  <line fill="none" id="svg_10" stroke="#ff0000" stroke-width="2" transform="matrix(1 0 0 1 0 0)" x1="126.460197" x2="125.460197" y1="127.278382" y2="254.278392"/>
+  <g class="line" id="line">
+   <g id="svg_9">
+    <g id="arrow_2"/>
+    <g id="svg_27">
+     <g id="svg_2"/>
+    </g>
+    <g id="svg_4">
+     <g id="arrow_1"/>
+    </g>
+    <line fill="none" id="svg_22" stroke="#000000" stroke-width="2" transform="rotate(-91.0962 88.8032 380.998)" x1="88.80321" x2="88.80321" y1="347.31938" y2="414.67587"/>
+   </g>
+   <g id="svg_19">
+    <line fill="none" id="svg_25" stroke="#000000" stroke-width="2" x1="91.36932" x2="91.36932" y1="380.03088" y2="462.52591"/>
+    <line fill="none" id="svg_62" stroke="#000000" stroke-width="2" transform="rotate(-91.0962 272.871 379.374)" x1="272.87139" x2="272.87139" y1="345.69565" y2="413.05214"/>
+    <line fill="none" id="svg_57" stroke="#000000" stroke-width="2" x1="273.4375" x2="273.4375" y1="379.40715" y2="461.90218"/>
+    <line fill="none" id="svg_80" stroke="#000000" stroke-width="2" transform="rotate(-91.0962 458.871 376.374)" x1="458.87139" x2="458.87139" y1="342.69565" y2="410.05214"/>
+    <line fill="none" id="svg_75" stroke="#000000" stroke-width="2" x1="458.4375" x2="458.4375" y1="377.40715" y2="459.90218"/>
+    <g id="svg_16">
+     <g id="svg_18">
+      <g id="svg_17">
+       <line fill="none" id="svg_15" stroke="#000000" stroke-width="2" x1="56.55113" x2="243.55113" y1="171.842849" y2="169.842849"/>
+       <line fill="none" id="svg_14" stroke="#000000" stroke-width="2" x1="58.05113" x2="59.05113" y1="171.842829" y2="256.842829"/>
+       <line fill="none" id="svg_3" stroke="#000000" stroke-width="2" x1="121.34533" x2="121.34533" y1="299.251239" y2="381.746269"/>
+       <line fill="none" id="svg_1" stroke="#000000" stroke-width="2" x1="59.82152" x2="59.82152" y1="300.251239" y2="382.746269"/>
+       <line fill="none" id="svg_73" stroke="#000000" stroke-width="2" x1="242.8897" x2="242.8897" y1="297.627509" y2="380.122539"/>
+       <line fill="none" id="svg_72" stroke="#000000" stroke-width="2" x1="304.41351" x2="304.41351" y1="296.627509" y2="379.122539"/>
+       <line fill="none" id="svg_68" stroke="#000000" stroke-width="2" x1="242.11931" x2="243.11931" y1="169.219099" y2="254.219099"/>
+       <line fill="none" id="svg_67" stroke="#000000" stroke-width="2" x1="239.61931" x2="426.61931" y1="169.219119" y2="167.219119"/>
+       <line fill="none" id="svg_91" stroke="#000000" stroke-width="2" x1="428.8897" x2="428.8897" y1="295.627509" y2="378.122539"/>
+       <line fill="none" id="svg_90" stroke="#000000" stroke-width="2" x1="489.41351" x2="489.41351" y1="294.627509" y2="377.122539"/>
+       <line fill="none" id="svg_86" stroke="#000000" stroke-width="2" x1="427.11931" x2="428.11931" y1="167.219099" y2="252.219099"/>
+       <line fill="none" id="svg_85" stroke="#000000" stroke-width="2" x1="425.61931" x2="612.61931" y1="167.219119" y2="165.219119"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="pump_1" transform="matrix(1 0 0 1 0 0)">
+   <ellipse cx="58.952653" cy="278.772233" fill="none" id="svg_6" rx="21.69841" ry="22.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m47.263323,277.932023l5.85021,-19.02569l14.20451,12.03022" fill="none" id="svg_7" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_11" stroke="#000000" stroke-width="3" x1="53.841893" x2="61.823413" y1="261.490513" y2="299.682623"/>
+  </g>
+  <g id="pump_2">
+   <ellipse cx="124.116801" cy="278.025931" fill="none" id="svg_20" rx="21.19841" ry="21.32232" stroke="#000000" stroke-width="2"/>
+   <path d="m112.315211,273.931531l12.29138,-15.73362l9.15749,15.11471" fill="none" id="svg_21" stroke="#000000" stroke-width="3"/>
+   <line fill="none" id="svg_23" stroke="#000000" stroke-width="3" x1="124.290391" x2="120.768281" y1="259.859221" y2="297.385391"/>
+  </g>
+ </g>
+</svg>
